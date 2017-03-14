@@ -14,7 +14,7 @@ Delete Apr. 2005 and Nov. 2013 labels.
 
 Click "Update preview."
 
-![Urban](http://www.storybench.org/nieman/ui2013web.png)
+![Alt text](http://www.storybench.org/nieman/ui2013web.png)
 
 ## Introduction to mapping
 
