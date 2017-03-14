@@ -14,8 +14,6 @@ Delete Apr. 2005 and Nov. 2013 labels.
 
 Click "Update preview."
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1200.4079470198676" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8f513252-08d6-11e7-9182-0edaf8f81e27"></iframe>
-
 ![Alt text](http://www.storybench.org/nieman/ui2013web.jpg)
 
 ## Introduction to mapping
