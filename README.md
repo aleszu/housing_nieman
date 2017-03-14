@@ -26,7 +26,7 @@ This is pulled from **NYC 311 data** found at [opendata.cityofnewyork.us/](http:
 
 311 service complaints data, by the way, is a huge list, with everything from rodent complaints to noise complaints to illegally parked cars. 
 
-So, we will filter it down [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data) by **complaint type: lead, status: open, created date: after 2.1.2017.**
+So, we will filter it down [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data) in the Filter tab by **complaint type: lead, status: open, created date: after 2.1.2017.** Then we'll download a CSV in the Export tab.
 
 Import this [CSV](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/view?usp=sharing) into [Google My Maps](https://www.google.com/mymaps). 
 Style the lead kit request points by selecting "uniform" and then customize their icon and color.
