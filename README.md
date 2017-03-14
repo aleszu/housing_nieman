@@ -2,7 +2,7 @@
 
 ## Before and after images
 
-Open up [JuxtaposeJS](https://juxtapose.knightlab.com), an easy-to-use tool built by Northwestern's Knight Lab. We'll be using two screenshots of maps created for the Urban Institute's [Our Changing City: Housing](http://apps.urban.org/features/OurChangingCity/housing/index.html) project about Washington, D.C. 
+Open up [JuxtaposeJS](https://juxtapose.knightlab.com){:target="_blank"}, an easy-to-use tool built by Northwestern's Knight Lab. We'll be using two screenshots of maps created for the Urban Institute's [Our Changing City: Housing](http://apps.urban.org/features/OurChangingCity/housing/index.html) project about Washington, D.C. 
 
 Click "Make a slider now."
 
