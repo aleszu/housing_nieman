@@ -28,7 +28,7 @@ Import this [CSV](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/v
 
 Style the lead kit request points by selecting "uniform" and then customize their icon and color.
 
-####*What is this data?*
+#### *What is this data?*
 
 (This is pulled from **NYC 311 data** found at [opendata.cityofnewyork.us/](http://opendata.cityofnewyork.us/). 
 
@@ -46,7 +46,7 @@ Style the public housing buildings by "borough."
 
 Set labels as “development.”
 
-####*What is this data?*
+#### *What is this data?*
 
 (This is pulled from [Data.gov](https://catalog.data.gov/dataset?q=%22nycha%22+%22new+york%22&sort=views_recent+desc&as_sfid=AAAAAAU1g8W83MzHP5UveS-1h5BDNFZFvTZMJKi1B7tXi1JDtoKB7zh-Twe4loPvwDf9Ihel2O_RGSktN_jf8681CrEnLnAFvpsp7Ns0EIfjfwKj_7QICDqd4x9vQzTmImdGkEQ%3D&as_fid=9ce1c7f7e75a6fb29a87a0fb90cc71380565ba01&ext_location=&ext_bbox=&ext_prev_extent=-142.03125%2C8.754794702435618%2C-59.0625%2C61.77312286453146) where we did a search for "nycha" "new york."
 
