@@ -1,5 +1,5 @@
-# Covering Housing [Workshop](http://nieman.harvard.edu/sites/covering-housing/) at the Nieman Foundation for Journalism at Harvard
-### March 18, 2017
+# Covering Housing [Workshop](http://nieman.harvard.edu/sites/covering-housing/) at the Nieman Foundation for Journalism at Harvard 
+March 18, 2017
 
 ## Presentation [here](https://docs.google.com/presentation/d/1HPN60v0WZVv483drKZ41_dEfrXMxj3bSi-hnYMiAARE/edit?usp=sharing)
 
