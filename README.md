@@ -67,7 +67,7 @@ KML is essentially a list of shapefiles. Shapefiles are polygons – or, more sp
 
 16. Style by "BoroName."
 
-17. Download **shapefile of NY neighborhoods** [here]()
+17. Download **shapefile of NY neighborhoods** [here](https://drive.google.com/file/d/0B56vzj8m6JInRFd5N0p6Qmd1RUk/view?usp=sharing). Upload to Google My Maps.
 
 #### *What is this data?*
 
