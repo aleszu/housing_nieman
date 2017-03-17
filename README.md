@@ -61,9 +61,9 @@ KML is essentially a list of shapefiles. Shapefiles are polygons – or, more sp
 
 ### Mapping boroughs or neighborhoods
 
-Download **shapefiles of NYC boroughs** [here]().
+Download **shapefiles of NYC boroughs** [here](https://drive.google.com/file/d/0B56vzj8m6JInZVRkU1dLRWZ6LTQ/view?usp=sharing).
 
-This is a [KML] file that I converted from a shapefile zip I downloaded from NYC.gov [here](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page). I converted it using [https://mygeodata.cloud/converter/](My Geodata Converter). 
+This is a KML file that I converted from a shapefile zip I downloaded from NYC.gov [here](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page). I converted it using [https://mygeodata.cloud/converter/](My Geodata Converter). 
 
 Upload the KML of NYC boroughs to Google My Maps.
 
