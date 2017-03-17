@@ -30,13 +30,14 @@ Import this [CSV](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/v
 
 Style the lead kit request points by selecting "uniform" and then customize their icon and color.
 
+<span style="color:gray">
 #### *What is this data?*
 
 (This is pulled from **NYC 311 data** found at [opendata.cityofnewyork.us/](http://opendata.cityofnewyork.us/). 
 
 311 service complaints data, by the way, is a huge list, with everything from rodent complaints to noise complaints to illegally parked cars. 
 
-So, we will filter it down [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data) in the Filter tab by **complaint type: lead, status: open, created date: after 2.1.2017.** Then we'll download a CSV in the Export tab.)
+So, we will filter it down [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data) in the Filter tab by **complaint type: lead, status: open, created date: after 2.1.2017.** Then we'll download a CSV in the Export tab.)</span>
 
 ### Mapping buildings/shapes
 
@@ -48,13 +49,14 @@ Style the public housing buildings by "borough."
 
 Set labels as “development.”
 
+<span style="color:gray">
 #### *What is this data?*
 
 (This is pulled from [Data.gov](https://catalog.data.gov/dataset?q=%22nycha%22+%22new+york%22&sort=views_recent+desc&as_sfid=AAAAAAU1g8W83MzHP5UveS-1h5BDNFZFvTZMJKi1B7tXi1JDtoKB7zh-Twe4loPvwDf9Ihel2O_RGSktN_jf8681CrEnLnAFvpsp7Ns0EIfjfwKj_7QICDqd4x9vQzTmImdGkEQ%3D&as_fid=9ce1c7f7e75a6fb29a87a0fb90cc71380565ba01&ext_location=&ext_bbox=&ext_prev_extent=-142.03125%2C8.754794702435618%2C-59.0625%2C61.77312286453146) where we did a search for "nycha" "new york."
 
 Click on KML below Map of NYCHA Developments. It will bring you to [this page](https://catalog.data.gov/dataset/map-of-nycha-developments/resource/bc435fbe-04a4-43d8-9be5-130f9acf2757). Click Download in top right.
 
-KML is essentially a list of shapefiles. Shapefiles are polygons – or, more specifically, a list of coordinates outlining a polygon. A triangle has three coordinates. A square has four. A state like Colorado will have fewer than Rhode Island.) 
+KML is essentially a list of shapefiles. Shapefiles are polygons – or, more specifically, a list of coordinates outlining a polygon. A triangle has three coordinates. A square has four. A state like Colorado will have fewer than Rhode Island.) </span>
 
 
 ![Alt text](http://www.storybench.org/nieman/mymaps.png)
