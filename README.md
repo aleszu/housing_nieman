@@ -5,17 +5,17 @@ March 18, 2017
 
 ## Before and after images
 
-Open up [JuxtaposeJS](https://juxtapose.knightlab.com), an easy-to-use tool built by Northwestern's Knight Lab. We'll be using two screenshots of maps created for the Urban Institute's [Our Changing City: Housing](http://apps.urban.org/features/OurChangingCity/housing/index.html) project about Washington, D.C. 
+1. Open up [JuxtaposeJS](https://juxtapose.knightlab.com), an easy-to-use tool built by Northwestern's Knight Lab. We'll be using two screenshots of maps created for the Urban Institute's [Our Changing City: Housing](http://apps.urban.org/features/OurChangingCity/housing/index.html) project about Washington, D.C. 
 
-Click "Make a slider now."
+2. Click "Make a slider now."
 
-In left image, paste in this url: http://www.storybench.org/nieman/ui2003.png
+3. In left image, paste in this url: http://www.storybench.org/nieman/ui2003.png
 
-In right image, paste in this url: http://www.storybench.org/nieman/ui2013.png
+4. In right image, paste in this url: http://www.storybench.org/nieman/ui2013.png
 
-Delete Apr. 2005 and Nov. 2013 labels.
+5. Delete Apr. 2005 and Nov. 2013 labels.
 
-Click "Update preview."
+6. Click "Update preview."
 
 ![Alt text](http://www.storybench.org/nieman/ui2013web.jpg)
 
@@ -25,11 +25,11 @@ Using [Google My Maps](https://www.google.com/mymaps), we’ll quickly map some 
 
 ### Mapping points
 
-Download point data of lead kit requests [here](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/view?usp=sharing). 
+7. Download point data of lead kit requests [here](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/view?usp=sharing). 
 
-Import this [CSV](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/view?usp=sharing) into [Google My Maps](https://www.google.com/mymaps). 
+8. Import this [CSV](https://drive.google.com/file/d/0B56vzj8m6JInVUVYSnpmelpQUU0/view?usp=sharing) into [Google My Maps](https://www.google.com/mymaps). 
 
-Style the lead kit request points by selecting "uniform" and then customize their icon and color.
+9. Style the lead kit request points by selecting "uniform" and then customize their icon and color.
 
 #### *What is this data?*
 
@@ -41,13 +41,13 @@ So, we will filter it down [here](https://nycopendata.socrata.com/Social-Service
 
 ### Mapping buildings/shapes
 
-Download **shapefiles of NYC public housing** [here](https://data.cityofnewyork.us/api/geospatial/i9rv-hdr5?method=export&format=KML).
+10. Download **shapefiles of NYC public housing** [here](https://data.cityofnewyork.us/api/geospatial/i9rv-hdr5?method=export&format=KML).
 
-Import the [KML file](https://data.cityofnewyork.us/api/geospatial/i9rv-hdr5?method=export&format=KML) into [Google My Maps](https://www.google.com/mymaps). 
+11. Import the [KML file](https://data.cityofnewyork.us/api/geospatial/i9rv-hdr5?method=export&format=KML) into [Google My Maps](https://www.google.com/mymaps). 
 
-Style the public housing buildings by "borough."
+12. Style the public housing buildings by "borough."
 
-Set labels as “development.”
+13. Set labels as “development.”
 
 #### *What is this data?*
 
@@ -61,11 +61,13 @@ KML is essentially a list of shapefiles. Shapefiles are polygons – or, more sp
 
 ### Mapping boroughs or neighborhoods
 
-Download **shapefiles of NYC boroughs** [here](https://drive.google.com/file/d/0B56vzj8m6JInZVRkU1dLRWZ6LTQ/view?usp=sharing).
+14. Download **shapefiles of NYC boroughs** [here](https://drive.google.com/file/d/0B56vzj8m6JInZVRkU1dLRWZ6LTQ/view?usp=sharing).
+
+15. Upload the KML of NYC boroughs to Google My Maps.
+
+16. Style by "BoroName."
+
+#### *What is this data?*
 
 This is a KML file that I converted from a shapefile zip I downloaded from NYC.gov [here](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page). I converted it using [https://mygeodata.cloud/converter/](My Geodata Converter). 
-
-Upload the KML of NYC boroughs to Google My Maps.
-
-Style by "BoroName."
 
